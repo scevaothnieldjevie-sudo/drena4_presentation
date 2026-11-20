@@ -42,16 +42,16 @@ Projet réalisé dans le cadre d'un stage en informatique à la DRENA4.
 ## Aperçu de l’application
 
 ### 1. Tableau de bord
-![Tableau de bord](captures/tableau.png)
+![Tableau de bord](captures/Tableau.png)
 
 ### 2. Gestion des établissements
-![Établissements](captures/etablissement.png)
+![Établissements](captures/Etablissement.png)
 
 ### 3. Gestion des paquets
-![Paquets](captures/paquet.png)
+![Paquets](captures/Paquet.png)
 
 ### 4. Gestion des retraits
-![Retraits](captures/retrait.png)
+![Retraits](captures/Retrait.png)
 
 ### 5. Suivi de la distribution
-![Suivi](captures/suivi.png)
+![Suivi](captures/Suivi.png)
