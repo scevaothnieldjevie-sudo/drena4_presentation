@@ -74,3 +74,15 @@ Permet d'enregistrer les retraits de paquets effectués par les représentants d
 
 **5. Suivi de la distribution**
 Permet de suivre la distribution des cartes aux élèves et de consulter leur statut.
+
+## Architecture de l'application
+
+```mermaid
+flowchart TD
+    A[Utilisateur] --> B[Navigateur web]
+    B --> C[Interface HTML CSS JavaScript]
+    C --> D[Application PHP]
+    D <--> E[(Base de données MySQL)]
+    D --> C
+    C --> B
+```
