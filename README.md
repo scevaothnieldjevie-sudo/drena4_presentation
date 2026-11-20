@@ -40,8 +40,7 @@ Projet réalisé dans le cadre d'un stage en informatique à la DRENA4.
 *Le code source et les données de l'application ne sont pas publiés dans ce dépôt.*
 ## Aperçu de l’application
 
-### Tableau de bord
-![Tableau de bord](tableau.png)
+![Tableau de bord](./tableau.png)
 
 ### Gestion des établissements
 ![Établissements](etablissement.png)
