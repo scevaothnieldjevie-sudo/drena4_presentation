@@ -55,3 +55,22 @@ Projet réalisé dans le cadre d'un stage en informatique à la DRENA4.
 
 ### 5. Suivi de la distribution
 ![Suivi](captures/Suivi.png)
+
+## Fonctionnement de l'application
+
+L'application est organisée autour de cinq principaux modules :
+
+**1. Tableau de bord**
+Permet de consulter une vue globale des activités et des statistiques liées à la distribution des cartes scolaires.
+
+**2. Gestion des établissements**
+Permet d'enregistrer et de gérer les établissements concernés par la distribution.
+
+**3. Gestion des paquets**
+Permet d'assurer le suivi des paquets de cartes reçus et destinés aux établissements.
+
+**4. Gestion des retraits**
+Permet d'enregistrer les retraits de paquets effectués par les représentants des établissements.
+
+**5. Suivi de la distribution**
+Permet de suivre la distribution des cartes aux élèves et de consulter leur statut.
